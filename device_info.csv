@@ -1,0 +1,5 @@
+session_name,hostname,protocol=SSH2,username,description
+HOSTNAME-SW1,172.16.1.193,,cisco,HARDWARE
+HOSTNAME-SW2,172.16.1.194,,cisco,HARDWARE
+HOSTNAME-SW2,172.16.1.195,,cisco,HARDWARE
+HOSTNAME-SW2,172.16.1.198,,cisco,HARDWARE
